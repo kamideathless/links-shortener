@@ -7,7 +7,7 @@
 1. Склонировать репозиторий:
 
 ```bash
-git clone <https://github.com/kamideathless/links-shortener.git>
+git clone https://github.com/kamideathless/links-shortener.git
 cd links-shorter
 ```
 
